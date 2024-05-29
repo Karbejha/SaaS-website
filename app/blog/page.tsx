@@ -4,7 +4,7 @@ import Breadcrumb from "@/components/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Page | Web Design and Seo SaaS",
+  title: "Blog Page | Rankify",
   description: "This is Blog Page for website",
 };
 

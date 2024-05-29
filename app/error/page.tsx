@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Error Page | Web Design and Seo SaaS",
+  title: "Error Page | Rankify",
   description: "This is Error Page for website",
 };
 

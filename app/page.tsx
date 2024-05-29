@@ -12,7 +12,7 @@ import Video from "@/sections/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Web Design and Seo SaaS",
+  title: "Rankify",
   description: "This is Home for website",
 };
 

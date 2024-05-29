@@ -7,7 +7,7 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Details | Web Design and Seo SaaS",
+  title: "Blog Details | Rankify",
   description: "This is Blog Details Page for website",
 };
 
