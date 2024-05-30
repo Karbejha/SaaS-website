@@ -9,7 +9,9 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph={
+              "Our platform is designed to help you achieve outstanding results. Whether you're a beginner or an expert, Rankify is the ultimate solution for all your digital marketing needs."
+            }
             center
           />
 

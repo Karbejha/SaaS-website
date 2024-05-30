@@ -11,8 +11,8 @@ const Pricing = () => {
     <section id="pricing" className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="Clear and Budget-Friendly Pricing"
-          paragraph="Our pricing model is straightforward and budget-conscious. While there are numerous variations of Lorem Ipsum passages, most have undergone some form of alteration."
+          title="Budget-Friendly Pricing"
+          paragraph="Our clear and budget-friendly pricing model is designed with transparency and affordability in mind, ensuring you get exceptional value for your money."
           center
           width="665px"
         />
@@ -65,7 +65,7 @@ const Pricing = () => {
             packageName="Lite"
             price={isMonthly ? "50" : "150"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Get started with essential features tailored for individuals or small teams."
           >
             <OfferList text="Intuitive User Interface" status="active" />
             <OfferList text="Real-Time Analytics" status="active" />
@@ -78,7 +78,7 @@ const Pricing = () => {
             packageName="Basic"
             price={isMonthly ? "499" : "999"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Unlock more advanced capabilities perfect for growing businesses or larger teams."
           >
             <OfferList text="Intuitive User Interface" status="active" />
             <OfferList text="Real-Time Analytics" status="active" />
@@ -91,7 +91,7 @@ const Pricing = () => {
             packageName="Plus"
             price={isMonthly ? "789" : "1799"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Experience our comprehensive suite of premium tools designed for enterprises and organizations."
           >
             <OfferList text="Intuitive User Interface" status="active" />
             <OfferList text="Real-Time Analytics" status="active" />

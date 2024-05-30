@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "The best UI components for modern websites",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Elevate user experiences with modern, intuitive UI components that seamlessly blend form and function for captivating websites.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Suzi Jenk",
@@ -19,7 +19,7 @@ const blogData: Blog[] = [
     id: 2,
     title: "11 simple ways to enhance your web coding skills",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Master the art of clean, efficient coding through these practical tips to level up your web development skills.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Suzi Jenk",
@@ -33,7 +33,7 @@ const blogData: Blog[] = [
     id: 3,
     title: "17 Tips to swiftly enhance your SEO keyword strategy",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Unlock the power of strategic keyword optimization with these actionable insights to boost your online visibility and search rankings.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Suzi Jenk",

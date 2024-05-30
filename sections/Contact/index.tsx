@@ -15,7 +15,7 @@ const Contact = () => {
                 Get Assistance by Opening a Ticket
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-              We&APOS;ll respond to your inquiry as soon as possible via email.
+              We'll respond to your inquiry as soon as possible via email.
               </p>
               <form>
                 <div className="-mx-4 flex flex-wrap">

@@ -18,9 +18,7 @@ const Hero = () => {
                 Cutting-Edge SEO Marketing and Website Design Solutions
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  Fly and elevate your online presence with our comprehensive SaaS platform, 
-                  designed to drive exceptional results. Our streamlined SEO marketing and 
-                  website design solutions empower you to optimize your digital strategy effortlessly. 
+                Take your online presence to new heights with Rankify, our all-in-one SaaS platform. We combine powerful SEO marketing tools and website design solutions to empower you to effortlessly optimize your digital strategy and achieve outstanding results.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
